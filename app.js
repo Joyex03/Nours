@@ -1,4 +1,4 @@
-var owner = 'ozh';
+var owner = 'Joyex03';
 var start_angle = 0;
 	
 $(document).ready(function($) {
